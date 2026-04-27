@@ -1,0 +1,7 @@
+{"sessionId":"8f043c","runId":"run-compile-fix","hypothesisId":"H2","location":"main.cpp:chooseSaveMapPathViaDialog","message":"save file dialog success","data":{"ok":true},"timestamp":1777279877014}
+{"sessionId":"8f043c","runId":"run-compile-fix","hypothesisId":"H3","location":"main.cpp:chooseOpenMapPathViaDialog","message":"enter open file dialog","data":{"api":"GetOpenFileNameA"},"timestamp":1777279881414}
+{"sessionId":"8f043c","runId":"run-compile-fix","hypothesisId":"H3","location":"main.cpp:chooseOpenMapPathViaDialog","message":"open file dialog success","data":{"ok":true},"timestamp":1777279887326}
+{"sessionId":"8f043c","runId":"run-compile-fix","hypothesisId":"H3","location":"main.cpp:chooseOpenMapPathViaDialog","message":"enter open file dialog","data":{"api":"GetOpenFileNameA"},"timestamp":1777279892745}
+{"sessionId":"8f043c","runId":"run-compile-fix","hypothesisId":"H3","location":"main.cpp:chooseOpenMapPathViaDialog","message":"open file dialog success","data":{"ok":true},"timestamp":1777279894968}
+{"sessionId":"8f043c","runId":"run-compile-fix","hypothesisId":"H3","location":"main.cpp:chooseOpenMapPathViaDialog","message":"enter open file dialog","data":{"api":"GetOpenFileNameA"},"timestamp":1777280003195}
+{"sessionId":"8f043c","runId":"run-compile-fix","hypothesisId":"H3","location":"main.cpp:chooseOpenMapPathViaDialog","message":"open file dialog success","data":{"ok":true},"timestamp":1777280015249}
